@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SillyStories-Cutler/Controller/StoryInput.swift"
+            timestampString = "528674514.670424"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "StoryInput"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SillyStories_Cutler.StoryInput.__deallocating_deinit"
+                  moduleName = "SillyStories-Cutler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristencutler/cs180A/SillyStories-Cutler/SillyStories-Cutler/Controller/StoryInput.swift"
+                  timestampString = "528157753.49467"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SillyStories_Cutler.StoryInput.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SillyStories_Cutler.StoryInput"
+                  moduleName = "SillyStories-Cutler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristencutler/cs180A/SillyStories-Cutler/SillyStories-Cutler/Controller/StoryInput.swift"
+                  timestampString = "528157753.49686"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SillyStories_Cutler.StoryInput.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SillyStories_Cutler.StoryInput"
+                  moduleName = "SillyStories-Cutler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristencutler/cs180A/SillyStories-Cutler/SillyStories-Cutler/Controller/StoryInput.swift"
+                  timestampString = "528157753.498893"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SillyStories_Cutler.StoryInput.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;SillyStories_Cutler.StoryInput&gt;"
+                  moduleName = "SillyStories-Cutler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristencutler/cs180A/SillyStories-Cutler/SillyStories-Cutler/Controller/StoryInput.swift"
+                  timestampString = "528157753.501512"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SillyStories_Cutler.StoryInput.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;SillyStories_Cutler.StoryInput&gt;"
+                  moduleName = "SillyStories-Cutler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kristencutler/cs180A/SillyStories-Cutler/SillyStories-Cutler/Controller/StoryInput.swift"
+                  timestampString = "528157753.503826"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SillyStories-Cutler/Controller/StoryOutput.swift"
+            timestampString = "530043472.656737"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
